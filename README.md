@@ -1,11 +1,14 @@
-## Hi there 👋
+## 👋 Hi there, I'm Ilan (he/him)
+## 👀 My main interests include computer hardware and cybersecurity.
+## I'm currently studying Information Technology in university.
+## ⚡ Fun fact: I've never had a meatball before!
 
 <!--
 **ilan1h/ilan1h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on .
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
