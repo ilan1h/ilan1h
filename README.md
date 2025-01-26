@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Ilan (he/him)
 ## 👀 My main interests include computer hardware and cybersecurity.
 ## I'm currently studying Information Technology in university.
-## ⚡ Fun fact: I've never had a meatball before!
+## ⚡ Fun fact: I've never had a meatball before.
 
 <!--
 **ilan1h/ilan1h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
